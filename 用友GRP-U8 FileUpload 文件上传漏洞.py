@@ -14,8 +14,9 @@ def banner():
  \___  (  <_> )   |  \/ /_/  >___  (  <_> )  |  / /    |    \     \____
  / ____|\____/|___|  /\___  // ____|\____/|____/  \____|__  /\______  /
  \/                \//_____/ \/                           \/        \/ 
-                                                     info: 用友GRP-U8 FileUpload 文件上传漏洞
-                                                     version:nc.1.0    author:YeahSir
+                                   author:sanhua
+                                   date:2024-09-03
+                                   version:1.0
 """
     print(banner)
 

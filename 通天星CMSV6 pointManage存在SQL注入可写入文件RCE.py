@@ -18,8 +18,9 @@ def banner():
    ▄█    ███ ███  ▀ ███  ███▌    ▄      ███  ███   ███     ███   ███    ███ ███    ███     ███     ███  ███    ███ ███   ███ 
  ▄████████▀   ▀██████▀▄█ █████▄▄██      █▀    ▀█   █▀  █▄ ▄███   ██████████ ████████▀     ▄████▀   █▀    ▀██████▀   ▀█   █▀  
                          ▀                             ▀▀▀▀▀▀                                                                
-                                                                    info:通天星CMSV6 pointManage存在SQL注入可写入文件RCE
-                                                                    version:1.0 author:YeahSir  
+                                   author:sanhua
+                                   date:2024-09-03
+                                   version:1.0
 '''
     print(text)
 def main():
